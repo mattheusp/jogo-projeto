@@ -1,3 +1,3 @@
 class MinhaClasse {
-    foid main(String[])
+    oid main(String[])
 }
